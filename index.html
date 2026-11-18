@@ -49,7 +49,76 @@
 </section>
 <section class="analyzer wrap" id="analyzer-form"><div><div class="eyebrow">YOUR FIRST STEP</div><h2>Start with a clearer<br><span>view of your website.</span></h2><p>Website Analyzer is the first experience we're bringing to life. Enter a website address to prepare for an initial analysis.</p></div>
 <form id="analyzerForm"><label for="websiteUrl">Your website URL</label><div class="url-field"><span>◎</span><input id="websiteUrl" placeholder="https://example.com" required><button aria-label="Continue">→</button></div><p id="formNote">Prototype preview only. Website scanning is not connected yet.</p></form></section>
+<!-- Website Analysis Results -->
+<div class="analysis-results" id="analysisResults" hidden>
+
+  <div class="results-header">
+    <div>
+      <div class="eyebrow">WEBSITE INTELLIGENCE REPORT</div>
+      <h2>Analysis <span>overview.</span></h2>
+      <p id="analyzedWebsite">Preparing your website analysis...</p>
+    </div>
+
+    <div class="results-status" id="analysisStatus">
+      Ready
+    </div>
+  </div>
+
+  <div class="results-grid">
+
+    <article class="result-card">
+      <span class="result-icon">◈</span>
+      <h3>SEO Analysis</h3>
+      <strong id="seoScore">—</strong>
+      <p id="seoSummary">Search engine optimization signals</p>
+    </article>
+
+    <article class="result-card">
+      <span class="result-icon">⚡</span>
+      <h3>Performance</h3>
+      <strong id="performanceScore">—</strong>
+      <p id="performanceSummary">Website performance indicators</p>
+    </article>
+
+    <article class="result-card">
+      <span class="result-icon">⬡</span>
+      <h3>Security</h3>
+      <strong id="securityScore">—</strong>
+      <p id="securitySummary">Basic website security signals</p>
+    </article>
+
+    <article class="result-card">
+      <span class="result-icon">◎</span>
+      <h3>Availability</h3>
+      <strong id="availabilityStatus">—</strong>
+      <p id="availabilitySummary">Website availability information</p>
+    </article>
+
+  </div>
+
+  <div class="findings-panel">
+    <h3>Analysis findings</h3>
+    <div id="analysisFindings">
+      Your website findings will appear here.
+    </div>
+  </div>
+
+  <div class="report-actions">
+    <button type="button" id="downloadReport" disabled>
+      Download PDF Report ↓
+    </button>
+  </div>
+
+  <p class="results-disclaimer">
+    Preliminary website analysis. Results depend on available
+    data and do not constitute a comprehensive security audit.
+  </p>
+
+</div>
+
+</section>
 <section class="about wrap" id="about"><div class="about-symbol">⬡</div><div><div class="eyebrow">BUILT FOR WHAT'S NEXT</div><h2>Make your next digital move<br><span>with confidence.</span></h2><p>AutoCyber is being developed as a unified home for website intelligence, digital growth, cloud visibility, and cybersecurity.</p></div></section>
 </main>
 <footer class="footer wrap"><a class="brand" href="#home"><span class="brand-icon">⬡</span>Auto<span>Cyber</span></a><span>© <b id="year"></b> AutoCyber. Built for a smarter digital future.</span><a href="#home">Back to top ↑</a></footer>
-</body></html>
+</body>
+</html>
