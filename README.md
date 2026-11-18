@@ -2,7 +2,7 @@ Live URL: https://aminbiography.github.io/autocyber/
 
 
 ```
-E:\autocyber
+autocyber
 │
 ├── .notebook/
 │
