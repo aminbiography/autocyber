@@ -5,9 +5,9 @@ Live URL: https://aminbiography.github.io/autocyber/
 # AutoCyber
 ### AI-Integrated Digital Technology Platform
 
-🚧 **Independent Project | Under Development | Open to Collaboration**
+**Independent Project | Under Development | Open to Collaboration**
 
-## 🚧 Project Status & Collaboration
+## Project Status & Collaboration
 
 **AutoCyber is currently an independently initiated project seeking collaboration from individuals who are genuinely interested in developing an AI-integrated technology platform and building a team together.**
 
@@ -27,7 +27,7 @@ Our vision is to develop an integrated technology ecosystem combining artificial
 
 ---
 
-## 🏗️ Proposed Project Architecture
+## Proposed Project Architecture
 
 AutoCyber is planned as a monorepo-based application with a Next.js frontend and Python FastAPI backend.
 
@@ -161,7 +161,7 @@ autocyber/
 
 ---
 
-## 🤝 Collaboration Opportunities
+## Collaboration Opportunities
 
 We welcome individuals who have relevant skills, innovative ideas and a genuine interest in collaborative development.
 
@@ -195,7 +195,7 @@ We welcome people with practical skills, innovative ideas and a genuine interest
 
 ---
 
-## 🔮 Future Plans & Transparency
+## Future Plans & Transparency
 
 AutoCyber's future business model and monetization strategy have not been finalized.
 
@@ -212,7 +212,7 @@ Our current priority is developing a useful platform, establishing meaningful co
 
 ---
 
-## 📌 Development Roadmap
+## Development Roadmap
 
 The following represents the initial development direction. Priorities and timelines may change as the project evolves.
 
@@ -233,7 +233,7 @@ The following represents the initial development direction. Priorities and timel
 
 ---
 
-## 💡 Let's Build AutoCyber Together!
+## Let's Build AutoCyber Together!
 
 We welcome genuine collaboration, creative ideas, technical contributions and strategic discussions from people who share our vision.
 
@@ -243,7 +243,7 @@ If you are interested in collaborating, please introduce yourself, share your re
 
 ---
 
-## 📊 Current Project Status
+## Current Project Status
 
 **Independent Project | Under Development | AI Integration Planning | Free Access | Open to Collaboration**
 
