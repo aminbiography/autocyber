@@ -2,7 +2,7 @@ Live URL: https://aminbiography.github.io/autocyber/
 
 
 ```
-autocyber
+\autocyber
 │
 ├── .notebook/
 │
@@ -14,5 +14,16 @@ autocyber
 ├── js/
 ├── reports/
 │
+└── index.html
+```
+
+```
+\autocyber
+├── assets
+├── css
+│   └── style.css
+├── js
+│   └── main.js
+├── reports
 └── index.html
 ```
