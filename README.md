@@ -255,7 +255,12 @@ Collaboration does not automatically establish employment, ownership, equity or 
 
 All future commercial activities will be subject to appropriate business arrangements and applicable legal and regulatory requirements.
 
+---
 
-**Independent Project - Designed and Developed by Mohammad Aminul Islam**
+---
 
-**Explore More About Mohammad Aminul Islam:** [aminbiography.com](https://aminbiography.com)
+**Project Type: Independent Project**
+
+**Designed and Developed by: Mohammad Aminul Islam**
+
+**Explore More About Mohammad Aminul Islam: [aminbiography.com](https://aminbiography.com)**
