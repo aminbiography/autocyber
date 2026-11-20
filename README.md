@@ -257,8 +257,6 @@ All future commercial activities will be subject to appropriate business arrange
 
 ---
 
----
-
 **Project Type: Independent Project**
 
 **Designed and Developed by: Mohammad Aminul Islam**
