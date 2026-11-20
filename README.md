@@ -5,7 +5,7 @@ Live URL: https://aminbiography.github.io/autocyber/
 # AutoCyber
 ### AI-Integrated Digital Technology Platform
 
-**Independent Project | Under Development | Open to Collaboration**
+**Independent Project - Designed and Developed by Mohammad Aminul Islam**
 
 ## Project Status & Collaboration
 
@@ -245,7 +245,7 @@ If you are interested in collaborating, please introduce yourself, share your re
 
 ## Current Project Status
 
-**Independent Project | Under Development | AI Integration Planning | Free Access | Open to Collaboration**
+**Independent Project - Designed and Developed by Mohammad Aminul Islam**
 
 ### Important Notice
 
@@ -255,6 +255,7 @@ Collaboration does not automatically establish employment, ownership, equity or 
 
 All future commercial activities will be subject to appropriate business arrangements and applicable legal and regulatory requirements.
 
-**Independent Project — Designed and Developed by Mohammad Aminul Islam**
+
+**Independent Project - Designed and Developed by Mohammad Aminul Islam**
 
 **Explore More About Mohammad Aminul Islam:** [aminbiography.com](https://aminbiography.com)
