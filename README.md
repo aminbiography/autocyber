@@ -250,22 +250,20 @@ If you are interested in collaborating, please introduce yourself, share your re
 
 ---
 
-## Current Project Status
+## Project Status & Relevant Information
 
-**Independent Project - Designed and Developed by Mohammad Aminul Islam**
+AutoCyber is currently an independently developed, non-commercial technology initiative. The platform is under development, and its features, architecture, and future direction may evolve over time.
 
-### Important Notice
+All currently available platform features are provided free of charge, without subscription fees.
 
-AutoCyber is currently an independently initiated development project and is not yet a fully launched commercial agency or subscription-based platform.
+### Collaboration & Contributions
 
-Collaboration does not automatically establish employment, ownership, equity or investment rights. Any formal arrangements will be discussed and agreed upon separately.
+Collaboration is voluntary and does not automatically establish employment, ownership, equity, investment rights, or any other formal business relationship. Any such arrangements, if applicable in the future, will require separate discussion and mutual agreement.
 
-All future commercial activities will be subject to appropriate business arrangements and applicable legal and regulatory requirements.
+### Future Development
+
+The project's future direction, including potential features, services, and development opportunities, will be determined as the platform evolves. Any significant changes to its availability or terms of use will be communicated appropriately.
 
 ---
 
-**Project Type: Independent Project**
-
-**Designed and Developed by: Mohammad Aminul Islam**
-
-**Explore More About Mohammad Aminul Islam: [aminbiography.com](https://aminbiography.com)**
+**Explore:** [Mohammad Aminul Islam](https://aminbiography.com/)
