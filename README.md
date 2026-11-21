@@ -10,6 +10,8 @@ AutoCyber is an independently initiated technology platform focused on exploring
 
 **Project Status:** Independent Development Initiative
 
+**First Release:** 18-11-2026; 10:56:36 AM (UTC+6); Initial commit: `first commit`
+
 **Live Platform:** [AutoCyber](https://aminbiography.github.io/autocyber/)
 
 ---
