@@ -1,11 +1,18 @@
-
-Live URL: https://aminbiography.github.io/autocyber/
-
-
 # AutoCyber
-### AI-Integrated Digital Technology Platform
 
-**Independent Project - Designed and Developed by Mohammad Aminul Islam**
+### AI-Powered Technology & Digital SaaS Innovation Platform
+
+**Building an Integrated Ecosystem for AI, Cybersecurity, Cloud Technology & Digital Solutions.**
+
+AutoCyber is an independently initiated technology platform focused on exploring, planning, designing, and developing intelligent digital solutions across artificial intelligence, cybersecurity, cloud technology, and digital innovation.
+
+**Project Planner & Developer:** Mohammad Aminul Islam
+
+**Project Status:** Independent Development Initiative
+
+**Live Platform:** [AutoCyber](https://aminbiography.github.io/autocyber/)
+
+---
 
 ## Project Status & Collaboration
 
